@@ -1,4 +1,4 @@
-local Messager = {}}
+local Messager = {}
 Messager.__index = Messager
 
 function Messager.new( ... )
