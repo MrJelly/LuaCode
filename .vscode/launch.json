@@ -5,7 +5,7 @@
             "name": "Ravi Debugger",
             "type": "lua",
             "request": "launch",
-            "program": "${workspaceRoot}/common.lua",
+            "program": "${workspaceRoot}/reload.lua",
             "stopOnEntry": true,
             "cwd": "${workspaceRoot}",
             "LUA_PATH": "${workspaceRoot}/?.lua",
